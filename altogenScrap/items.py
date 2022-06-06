@@ -15,5 +15,5 @@ class AltogenscrapItem(scrapy.Item):
 
     content = scrapy.Field()
 
-    URL = scrapy.Field()
+    # URL = scrapy.Field()
     # pass
